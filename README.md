@@ -2,7 +2,7 @@
 
 # Flutter UIKit
 
-<a href='https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
+<a href='https://play.google.com/store/apps/details?id=com.mtechviral.flutteruikit&hl=en=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
 
 The goal of this project is to provide an ultimate collection of real world app's UIs.
 While I built Flutter UIKit for my own needs, it is also intented to showcase good app structure and a clean, well-organized Flutter codebase.
